@@ -33,7 +33,7 @@
           src="https://avatars.githubusercontent.com/u/42665042?v=4"
           width="100px;"
           alt=""
-        /><br /><sub><b>상운</b></sub></a
+        /><br /><sub><b>인상운</b></sub></a
       ><br />
     </td>
     <td align="center">
@@ -51,7 +51,7 @@
           src="https://avatars.githubusercontent.com/u/102977561?v=4"
           width="100px;"
           alt=""
-        /><br /><sub><b>김범</b></sub></a
+        /><br /><sub><b>김범진</b></sub></a
       ><br />
     </td>
     <td align="center">
