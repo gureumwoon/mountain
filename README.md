@@ -83,14 +83,14 @@
     <td align="center">
         <img
           src="https://user-images.githubusercontent.com/83581867/168465262-52de9e0f-f098-4cd9-963d-1034288d61f3.gif"
-          width="300px;"
+          width="500px;"
           alt=""
         /><br/><sub><b>로그인 성공</b></sub><br />
     </td>
      <td align="center">
         <img
-          src="https://user-images.githubusercontent.com/84977026/150928755-acbe15cc-2cac-4c53-87de-7fb14f22a9a2.gif"
-          width="300px;"
+          src="https://user-images.githubusercontent.com/83581867/168465320-abd0d4bd-ed51-4916-bfa9-b377c7f3ae84.gi"
+          width="500px;"
           alt=""
         /><br /><sub><b>로그인 실</b></sub><br />
     </td>
