@@ -79,18 +79,18 @@
 <h2>로그인 (인상운)</h2>
 
 <table>
-  <tr>
+  <tr align="center">
     <td align="center">
         <img
           src="https://user-images.githubusercontent.com/83581867/168465262-52de9e0f-f098-4cd9-963d-1034288d61f3.gif"
-          width="500px;"
+          width="400px;"
           alt=""
         /><br/><sub><b>로그인 성공</b></sub><br />
     </td>
      <td align="center">
         <img
           src="https://user-images.githubusercontent.com/83581867/168465320-abd0d4bd-ed51-4916-bfa9-b377c7f3ae84.gi"
-          width="500px;"
+          width="400px;"
           alt=""
         /><br /><sub><b>로그인 실</b></sub><br />
     </td>
