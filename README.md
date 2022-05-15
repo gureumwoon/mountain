@@ -89,10 +89,10 @@
     </td>
      <td align="center">
         <img
-          src="https://user-images.githubusercontent.com/83581867/168465320-abd0d4bd-ed51-4916-bfa9-b377c7f3ae84.gi"
+          src="https://user-images.githubusercontent.com/83581867/168465320-abd0d4bd-ed51-4916-bfa9-b377c7f3ae84.gif"
           width="400px;"
           alt=""
-        /><br /><sub><b>로그인 실</b></sub><br />
+        /><br /><sub><b>로그인 실패</b></sub><br />
     </td>
   </tr>
 </table>
