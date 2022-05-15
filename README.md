@@ -124,10 +124,60 @@
 
 - 회원가입 할 이메일과 비밀번호는 중복검사 버튼을 통해서 사용이 가능한지 불가한지 검사 해줍니다.
 - 회원가입 버튼을 클릭하면 이메일과 닉네임 형식이 올바른지, 비밀번호와 비밀번호 확인란에 입력한 게 일치하는지, 닉네임 형식이 올바른지 전체적인 유효성 검사를 해주고, 빈칸이거나 이메일(@), 비밀번번호(영문과 숫자 필수 포함, 특수문자(!@#$%^&*)사용가능 8-20자)이 유효하지 않거나, 닉네임(2-10자의 영문과 숫자와 일부 특수문자(._-)만 입력 가능합니다.) 등의 형식이 맞지 않으면 입력창 밑에 경고문이 뜹니다.
-- 중복확인을 하지 않고 회원가입 버튼을 누르면 중복검사를 하라는 경고 창이 뜹니다.
   
-<h2>게시물 업로드 (황윤정)</h2>
+<h2>게시물 등록 (황윤정)</h2>
+
+<table>
+  <tr align="center">
+    <td align="center">
+        <img
+          src="https://user-images.githubusercontent.com/83581867/168472003-faa447d6-ea31-4c90-a70d-868d6c4532f1.gif"
+          width="400px;"
+          alt=""
+        /><br/><sub><b>게시물 등록</b></sub><br />
+    </td>
+  </tr>
+</table>
+
 <h2>게시물 수정 (황윤정)</h2>
+
+<table>
+  <tr align="center">
+    <td align="center">
+        <img
+          src="https://user-images.githubusercontent.com/83581867/168472240-de5766c8-7358-420f-a97a-84f922fcd0b5.gif"
+          width="400px;"
+          alt=""
+        /><br/><sub><b>게시물 수정</b></sub><br />
+    </td>
+  </tr>
+</table>
+
 <h2>게시물 삭제 (황윤정)</h2>
+
+<table>
+  <tr align="center">
+    <td align="center">
+        <img
+          src="https://user-images.githubusercontent.com/83581867/168472134-1eaa5706-a017-4fbe-aa8a-0bc7c3c31d4a.gif"
+          width="400px;"
+          alt=""
+        /><br/><sub><b>게시물 삭제</b></sub><br />
+    </td>
+  </tr>
+</table>
+
 <h2>메입페이지 & 상세보기 (김범진)</h2>
 <h2>로그아웃 (김범진)</h2>
+
+<table>
+  <tr align="center">
+    <td align="center">
+        <img
+          src="https://user-images.githubusercontent.com/83581867/168472095-897ef649-d9b2-47a6-ac3e-062029d6ec5f.gif"
+          width="400px;"
+          alt=""
+        /><br/><sub><b>로그아웃</b></sub><br />
+    </td>
+  </tr>
+</table>
