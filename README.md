@@ -6,3 +6,13 @@
 </pre>
 
 ## Stack
+
+### Frontend
+
+-   HTML
+-   CSS (Bulma)
+-   JavaScript
+
+### Backend
+
+-   Flask, MongoDB Atlas
