@@ -1,4 +1,4 @@
-# :deciduous_tree: mountain
+# :deciduous_tree: 산넘고 산넘어
 
 <pre>
   4일동안 진행된 미니 프로젝트로 전국의 산을 소개합니다.
@@ -20,3 +20,47 @@
 ## Product
 
 [유튜브](https://youtu.be/ScFCljhbfw0)
+
+# 역할
+
+## Member
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gureumwoon"
+        ><img
+          src="https://avatars.githubusercontent.com/gureumwoon"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>김채운</b></sub></a
+      ><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/coldrain-f"
+        ><img
+          src="https://avatars.githubusercontent.com/u/81298415?v=4"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>황윤정</b></sub></a
+      ><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/charile1"
+        ><img
+          src="https://avatars.githubusercontent.com/charile1"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>박경서</b></sub></a
+      ><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/leewooseong"
+        ><img
+          src="https://avatars.githubusercontent.com/leewooseong"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>이우성</b></sub></a><br />
+    </td>
+  </tr>
+</table>
