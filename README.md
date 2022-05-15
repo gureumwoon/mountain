@@ -78,11 +78,25 @@
 
 <h2>로그인 (인상운)</h2>
 
-<p align="center" >
-<kbd>
-<img width="300px" style = "border : 1px solid" src= "https://user-images.githubusercontent.com/84977026/150928634-20b09743-f7be-42b4-9134-6c9fa078c64f.gif">
-</kbd>
-</p>
+<table>
+  <tr>
+    <td align="center">
+        <img
+          src="https://user-images.githubusercontent.com/83581867/168465262-52de9e0f-f098-4cd9-963d-1034288d61f3.gif"
+          width="300px;"
+          alt=""
+        /><br/><sub><b>로그인 성공</b></sub><br />
+    </td>
+     <td align="center">
+        <img
+          src="https://user-images.githubusercontent.com/84977026/150928755-acbe15cc-2cac-4c53-87de-7fb14f22a9a2.gif"
+          width="300px;"
+          alt=""
+        /><br /><sub><b>로그인 실</b></sub><br />
+    </td>
+  </tr>
+</table>
+
 
 - '로그인' 버튼을 클릭하면 이메일 주소와 비밀번호에 대한 유효성 검사를 진행하고, 이메일 주소와 비밀번호가 일치하지 않으면 알림창으로
   '이메일과 비밀번호가 일치하지 않습니다.' 라는 경고문구가 나타납니다.
