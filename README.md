@@ -28,12 +28,12 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/gureumwoon"
+      <a href="https://github.com/shippig"
         ><img
-          src="https://avatars.githubusercontent.com/gureumwoon"
+          src="https://avatars.githubusercontent.com/u/42665042?v=4"
           width="100px;"
           alt=""
-        /><br /><sub><b>김채운</b></sub></a
+        /><br /><sub><b>상운</b></sub></a
       ><br />
     </td>
     <td align="center">
@@ -46,21 +46,21 @@
       ><br />
     </td>
     <td align="center">
-      <a href="https://github.com/charile1"
+      <a href="https://github.com/beomjin96"
         ><img
-          src="https://avatars.githubusercontent.com/charile1"
+          src="https://avatars.githubusercontent.com/u/102977561?v=4"
           width="100px;"
           alt=""
-        /><br /><sub><b>박경서</b></sub></a
+        /><br /><sub><b>김범</b></sub></a
       ><br />
     </td>
     <td align="center">
-      <a href="https://github.com/leewooseong"
+      <a href="https://github.com/gureumwoon"
         ><img
-          src="https://avatars.githubusercontent.com/leewooseong"
+          src="https://avatars.githubusercontent.com/u/83581867?v=4"
           width="100px;"
           alt=""
-        /><br /><sub><b>이우성</b></sub></a><br />
+        /><br /><sub><b>김채운</b></sub></a><br />
     </td>
   </tr>
 </table>
