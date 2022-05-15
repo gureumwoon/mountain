@@ -127,57 +127,41 @@
   
 <h2>게시물 등록 (황윤정)</h2>
 
-<table>
-  <tr align="center">
-    <td align="center">
-        <img
-          src="https://user-images.githubusercontent.com/83581867/168472003-faa447d6-ea31-4c90-a70d-868d6c4532f1.gif"
-          width="400px;"
-          alt=""
-        /><br/><sub><b>게시물 등록</b></sub><br />
-    </td>
-  </tr>
-</table>
+  <div align="center">
+      <img
+         src="https://user-images.githubusercontent.com/83581867/168472003-faa447d6-ea31-4c90-a70d-868d6c4532f1.gif"
+         width="500px;"
+         alt=""
+       />
+  </div>
 
 <h2>게시물 수정 (황윤정)</h2>
 
-<table>
-  <tr align="center">
-    <td align="center">
-        <img
-          src="https://user-images.githubusercontent.com/83581867/168472240-de5766c8-7358-420f-a97a-84f922fcd0b5.gif"
-          width="400px;"
-          alt=""
-        /><br/><sub><b>게시물 수정</b></sub><br />
-    </td>
-  </tr>
-</table>
+ <div>
+      <img
+         src="https://user-images.githubusercontent.com/83581867/168472240-de5766c8-7358-420f-a97a-84f922fcd0b5.gif"
+         width="500px;"
+         alt=""
+       />
+  </div>
 
 <h2>게시물 삭제 (황윤정)</h2>
 
-<table>
-  <tr align="center">
-    <td align="center">
-        <img
-          src="https://user-images.githubusercontent.com/83581867/168472134-1eaa5706-a017-4fbe-aa8a-0bc7c3c31d4a.gif"
-          width="400px;"
-          alt=""
-        /><br/><sub><b>게시물 삭제</b></sub><br />
-    </td>
-  </tr>
-</table>
+  <div align="center">
+      <img
+         src="https://user-images.githubusercontent.com/83581867/168472134-1eaa5706-a017-4fbe-aa8a-0bc7c3c31d4a.gif"
+         width="500px;"
+         alt=""
+       />
+  </div>
 
 <h2>메입페이지 & 상세보기 (김범진)</h2>
 <h2>로그아웃 (김범진)</h2>
 
-<table>
-  <tr align="center">
-    <td align="center">
-        <img
-          src="https://user-images.githubusercontent.com/83581867/168472095-897ef649-d9b2-47a6-ac3e-062029d6ec5f.gif"
-          width="400px;"
-          alt=""
-        /><br/><sub><b>로그아웃</b></sub><br />
-    </td>
-  </tr>
-</table>
+  <div align="center">
+      <img
+         src="https://user-images.githubusercontent.com/83581867/168472095-897ef649-d9b2-47a6-ac3e-062029d6ec5f.gif"
+         width="500px;"
+         alt=""
+       />
+  </div>
