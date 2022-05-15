@@ -17,6 +17,10 @@
 
 -   Flask, MongoDB Atlas
 
+### 배포
+
+- 
+
 ## Product
 
 [유튜브](https://youtu.be/ScFCljhbfw0)
