@@ -19,7 +19,7 @@
 
 ### 배포
 
-- 
+- AWS EC2
 
 ## Product
 
